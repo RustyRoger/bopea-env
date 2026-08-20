@@ -1,0 +1,548 @@
+= Italian Serie B 2026/27
+
+# Date       Fri Aug 21 2026 - Fri May 14 2027 (267d)
+# Teams      20
+# Matches    380
+
+
+
+▪ Matchday 1
+  Fri Aug 21 2026
+    20:30  L.R. Vicenza            v Catanzaro
+  Sat Aug 22 2026
+    19:00  Carrarese               v Mantova
+    19:00  Südtirol                v Virtus Entella
+    21:00  Avellino                v Arezzo
+    21:00  Benevento               v Modena
+    21:00  Empoli                  v Cremonese
+  Sun Aug 23 2026
+    19:00  Hellas Verona           v Ascoli
+    19:00  Pisa                    v Padova
+    21:00  Cesena                  v Sampdoria
+    21:00  Palermo                 v Juve Stabia
+
+
+▪ Matchday 2
+  Fri Aug 28 2026
+    20:30  Cremonese               v Modena
+  Sat Aug 29 2026
+    19:00  Sampdoria               v Juve Stabia
+    19:00  Virtus Entella          v Cesena
+    21:00  Ascoli                  v Carrarese
+    21:00  Avellino                v L.R. Vicenza
+    21:00  Padova                  v Hellas Verona
+  Sun Aug 30 2026
+    19:00  Arezzo                  v Palermo
+    19:00  Mantova                 v Empoli
+    21:00  Benevento               v Südtirol
+    21:00  Pisa                    v Catanzaro
+
+
+▪ Matchday 3
+  Sat Sep 5 2026
+    15:00  Südtirol                v Catanzaro
+    17:15  Ascoli                  v Benevento
+    19:30  Carrarese               v Empoli
+  Sun Sep 6 2026
+    15:00  Cesena                  v Mantova
+    15:00  Juve Stabia             v Pisa
+    15:00  Modena                  v Avellino
+    15:00  Virtus Entella          v L.R. Vicenza
+    17:15  Hellas Verona           v Arezzo
+    19:30  Cremonese               v Padova
+  Mon Sep 7 2026
+    20:30  Palermo                 v Sampdoria
+
+
+▪ Matchday 4
+  Fri Sep 11 2026
+    19:00  Empoli                  v Arezzo
+    21:00  Benevento               v Hellas Verona
+    21:00  Pisa                    v Virtus Entella
+  Sat Sep 12 2026
+    15:00  L.R. Vicenza            v Juve Stabia
+    15:00  Padova                  v Ascoli
+    15:00  Südtirol                v Modena
+    17:15  Catanzaro               v Carrarese
+    19:30  Cesena                  v Cremonese
+  Sun Sep 13 2026
+    15:00  Avellino                v Palermo
+    17:15  Mantova                 v Sampdoria
+
+
+▪ Matchday 5
+  Fri Sep 18 2026
+    20:30  Juve Stabia             v Cesena
+  Sat Sep 19 2026
+    15:00  Carrarese               v Benevento
+    15:00  Cremonese               v Virtus Entella
+    15:00  Palermo                 v Padova
+    17:15  Sampdoria               v Catanzaro
+    19:30  Ascoli                  v Avellino
+  Sun Sep 20 2026
+    15:00  Arezzo                  v Südtirol
+    15:00  Hellas Verona           v L.R. Vicenza
+    17:15  Mantova                 v Pisa
+    19:30  Modena                  v Empoli
+
+
+▪ Matchday 6
+  Sat Oct 10
+           Arezzo                  v Cremonese
+           Avellino                v Sampdoria
+           Benevento               v Cesena
+           Catanzaro               v Mantova
+           Empoli                  v Palermo
+           L.R. Vicenza            v Pisa
+           Modena                  v Hellas Verona
+           Padova                  v Carrarese
+           Südtirol                v Ascoli
+           Virtus Entella          v Juve Stabia
+
+
+▪ Matchday 7
+  Sat Oct 17
+           Ascoli                  v Empoli
+           Benevento               v L.R. Vicenza
+           Carrarese               v Modena
+           Cesena                  v Avellino
+           Hellas Verona           v Catanzaro
+           Juve Stabia             v Südtirol
+           Mantova                 v Palermo
+           Padova                  v Virtus Entella
+           Pisa                    v Cremonese
+           Sampdoria               v Arezzo
+
+
+▪ Matchday 8
+  Sat Oct 24
+           Arezzo                  v Benevento
+           Avellino                v Padova
+           Catanzaro               v Ascoli
+           Cremonese               v Juve Stabia
+           Empoli                  v L.R. Vicenza
+           Hellas Verona           v Pisa
+           Modena                  v Cesena
+           Palermo                 v Carrarese
+           Südtirol                v Sampdoria
+           Virtus Entella          v Mantova
+
+
+▪ Matchday 9
+  Tue Oct 27
+           Ascoli                  v Sampdoria
+           Benevento               v Catanzaro
+           Carrarese               v Arezzo
+           Cesena                  v Empoli
+           Juve Stabia             v Hellas Verona
+           L.R. Vicenza            v Modena
+           Mantova                 v Cremonese
+           Padova                  v Südtirol
+           Pisa                    v Palermo
+           Virtus Entella          v Avellino
+
+
+▪ Matchday 10
+  Sat Oct 31
+           Arezzo                  v Ascoli
+           Avellino                v Pisa
+           Catanzaro               v Padova
+           Cremonese               v Benevento
+           Empoli                  v Juve Stabia
+           Hellas Verona           v Carrarese
+           Modena                  v Mantova
+           Palermo                 v L.R. Vicenza
+           Sampdoria               v Virtus Entella
+           Südtirol                v Cesena
+
+
+▪ Matchday 11
+  Sat Nov 7
+           Ascoli                  v Palermo
+           Benevento               v Avellino
+           Carrarese               v Sampdoria
+           Cesena                  v Catanzaro
+           Juve Stabia             v Arezzo
+           L.R. Vicenza            v Cremonese
+           Mantova                 v Hellas Verona
+           Padova                  v Empoli
+           Pisa                    v Südtirol
+           Virtus Entella          v Modena
+
+
+▪ Matchday 12
+  Sat Nov 21
+           Arezzo                  v Padova
+           Ascoli                  v L.R. Vicenza
+           Avellino                v Mantova
+           Carrarese               v Virtus Entella
+           Catanzaro               v Palermo
+           Empoli                  v Pisa
+           Hellas Verona           v Cesena
+           Modena                  v Juve Stabia
+           Sampdoria               v Benevento
+           Südtirol                v Cremonese
+
+
+▪ Matchday 13
+  Tue Nov 24
+           Benevento               v Empoli
+           Cesena                  v Ascoli
+           Cremonese               v Avellino
+           Juve Stabia             v Catanzaro
+           L.R. Vicenza            v Carrarese
+           Mantova                 v Arezzo
+           Padova                  v Sampdoria
+           Palermo                 v Südtirol
+           Pisa                    v Modena
+           Virtus Entella          v Hellas Verona
+
+
+▪ Matchday 14
+  Sat Nov 28
+           Arezzo                  v Pisa
+           Ascoli                  v Virtus Entella
+           Carrarese               v Juve Stabia
+           Catanzaro               v Avellino
+           Empoli                  v Hellas Verona
+           L.R. Vicenza            v Cesena
+           Modena                  v Padova
+           Palermo                 v Benevento
+           Sampdoria               v Cremonese
+           Südtirol                v Mantova
+
+
+▪ Matchday 15
+  Sat Dec 5
+           Avellino                v Südtirol
+           Cesena                  v Carrarese
+           Cremonese               v Catanzaro
+           Hellas Verona           v Palermo
+           Juve Stabia             v Benevento
+           Mantova                 v Ascoli
+           Modena                  v Arezzo
+           Padova                  v L.R. Vicenza
+           Pisa                    v Sampdoria
+           Virtus Entella          v Empoli
+
+
+▪ Matchday 16
+  Tue Dec 8
+           Arezzo                  v Cesena
+           Ascoli                  v Juve Stabia
+           Benevento               v Padova
+           Carrarese               v Pisa
+           Catanzaro               v Virtus Entella
+           Empoli                  v Südtirol
+           Hellas Verona           v Avellino
+           L.R. Vicenza            v Mantova
+           Palermo                 v Cremonese
+           Sampdoria               v Modena
+
+
+▪ Matchday 17
+  Sat Dec 12
+           Avellino                v Empoli
+           Cesena                  v Palermo
+           Cremonese               v Carrarese
+           Juve Stabia             v Padova
+           Mantova                 v Benevento
+           Modena                  v Catanzaro
+           Pisa                    v Ascoli
+           Sampdoria               v L.R. Vicenza
+           Südtirol                v Hellas Verona
+           Virtus Entella          v Arezzo
+
+
+▪ Matchday 18
+  Sat Dec 19
+           Ascoli                  v Modena
+           Benevento               v Pisa
+           Carrarese               v Avellino
+           Catanzaro               v Arezzo
+           Empoli                  v Sampdoria
+           Hellas Verona           v Cremonese
+           Juve Stabia             v Mantova
+           L.R. Vicenza            v Südtirol
+           Padova                  v Cesena
+           Palermo                 v Virtus Entella
+
+
+▪ Matchday 19
+  Sun Dec 27
+           Arezzo                  v L.R. Vicenza
+           Avellino                v Juve Stabia
+           Catanzaro               v Empoli
+           Cesena                  v Pisa
+           Cremonese               v Ascoli
+           Mantova                 v Padova
+           Modena                  v Palermo
+           Sampdoria               v Hellas Verona
+           Südtirol                v Carrarese
+           Virtus Entella          v Benevento
+
+
+▪ Matchday 20
+  Sat Jan 9
+           Arezzo                  v Hellas Verona
+           Ascoli                  v Catanzaro
+           Cesena                  v Modena
+           Juve Stabia             v Sampdoria
+           L.R. Vicenza            v Virtus Entella
+           Mantova                 v Carrarese
+           Padova                  v Cremonese
+           Palermo                 v Empoli
+           Pisa                    v Avellino
+           Südtirol                v Benevento
+
+
+▪ Matchday 21
+  Sat Jan 16
+           Ascoli                  v Südtirol
+           Avellino                v Virtus Entella
+           Benevento               v Arezzo
+           Carrarese               v Padova
+           Catanzaro               v Cesena
+           Cremonese               v L.R. Vicenza
+           Empoli                  v Modena
+           Hellas Verona           v Juve Stabia
+           Palermo                 v Pisa
+           Sampdoria               v Mantova
+
+
+▪ Matchday 22
+  Sat Jan 23
+           Arezzo                  v Empoli
+           Cesena                  v Benevento
+           Juve Stabia             v Cremonese
+           L.R. Vicenza            v Ascoli
+           Mantova                 v Avellino
+           Modena                  v Carrarese
+           Padova                  v Catanzaro
+           Pisa                    v Hellas Verona
+           Südtirol                v Palermo
+           Virtus Entella          v Sampdoria
+
+
+▪ Matchday 23
+  Sat Jan 30
+           Ascoli                  v Padova
+           Avellino                v Cesena
+           Benevento               v Sampdoria
+           Carrarese               v L.R. Vicenza
+           Catanzaro               v Juve Stabia
+           Cremonese               v Pisa
+           Empoli                  v Mantova
+           Hellas Verona           v Modena
+           Palermo                 v Arezzo
+           Virtus Entella          v Südtirol
+
+
+▪ Matchday 24
+  Sat Feb 6
+           Sampdoria               v Ascoli
+           Benevento               v Cremonese
+           Cesena                  v Hellas Verona
+           Juve Stabia             v Carrarese
+           L.R. Vicenza            v Palermo
+           Mantova                 v Catanzaro
+           Modena                  v Virtus Entella
+           Padova                  v Arezzo
+           Pisa                    v Empoli
+           Südtirol                v Avellino
+
+
+▪ Matchday 25
+  Sat Feb 13
+           Avellino                v Ascoli
+           Catanzaro               v Hellas Verona
+           Cremonese               v Cesena
+           Empoli                  v Benevento
+           L.R. Vicenza            v Padova
+           Modena                  v Südtirol
+           Palermo                 v Mantova
+           Pisa                    v Juve Stabia
+           Virtus Entella          v Carrarese
+           Arezzo                  v Sampdoria
+
+
+▪ Matchday 26
+  Sat Feb 20
+           Ascoli                  v Pisa
+           Benevento               v Mantova
+           Carrarese               v Catanzaro
+           Cesena                  v L.R. Vicenza
+           Cremonese               v Palermo
+           Hellas Verona           v Virtus Entella
+           Juve Stabia             v Empoli
+           Padova                  v Modena
+           Sampdoria               v Avellino
+           Südtirol                v Arezzo
+
+
+▪ Matchday 27
+  Sat Feb 27
+           Arezzo                  v Carrarese
+           Catanzaro               v Südtirol
+           Empoli                  v Ascoli
+           Juve Stabia             v Modena
+           L.R. Vicenza            v Avellino
+           Mantova                 v Cesena
+           Palermo                 v Hellas Verona
+           Pisa                    v Benevento
+           Sampdoria               v Padova
+           Virtus Entella          v Cremonese
+
+
+▪ Matchday 28
+  Tue Mar 2
+           Ascoli                  v Arezzo
+           Avellino                v Catanzaro
+           Benevento               v Juve Stabia
+           Carrarese               v Palermo
+           Cesena                  v Virtus Entella
+           Cremonese               v Sampdoria
+           Hellas Verona           v Empoli
+           Modena                  v Pisa
+           Padova                  v Mantova
+           Südtirol                v L.R. Vicenza
+
+
+▪ Matchday 29
+  Sat Mar 6
+           Arezzo                  v Juve Stabia
+           Avellino                v Hellas Verona
+           Catanzaro               v Cremonese
+           Empoli                  v Carrarese
+           Mantova                 v Südtirol
+           Padova                  v Benevento
+           Palermo                 v Modena
+           Pisa                    v L.R. Vicenza
+           Sampdoria               v Cesena
+           Virtus Entella          v Ascoli
+
+
+▪ Matchday 30
+  Sat Mar 13
+           Benevento               v Virtus Entella
+           Carrarese               v Südtirol
+           Catanzaro               v Pisa
+           Cesena                  v Padova
+           Cremonese               v Mantova
+           Empoli                  v Avellino
+           Hellas Verona           v Sampdoria
+           Juve Stabia             v Palermo
+           L.R. Vicenza            v Arezzo
+           Modena                  v Ascoli
+
+
+▪ Matchday 31
+  Sat Mar 20
+           Arezzo                  v Modena
+           Ascoli                  v Cremonese
+           Avellino                v Benevento
+           Carrarese               v Cesena
+           L.R. Vicenza            v Hellas Verona
+           Mantova                 v Juve Stabia
+           Padova                  v Palermo
+           Sampdoria               v Empoli
+           Südtirol                v Pisa
+           Virtus Entella          v Catanzaro
+
+
+▪ Matchday 32
+  Sat Apr 3
+           Benevento               v Ascoli
+           Catanzaro               v L.R. Vicenza
+           Cesena                  v Südtirol
+           Cremonese               v Arezzo
+           Empoli                  v Padova
+           Hellas Verona           v Mantova
+           Juve Stabia             v Virtus Entella
+           Modena                  v Sampdoria
+           Palermo                 v Avellino
+           Pisa                    v Carrarese
+
+
+▪ Matchday 33
+  Sat Apr 10
+           Arezzo                  v Catanzaro
+           Ascoli                  v Cesena
+           Avellino                v Cremonese
+           Carrarese               v Hellas Verona
+           L.R. Vicenza            v Benevento
+           Mantova                 v Modena
+           Padova                  v Juve Stabia
+           Sampdoria               v Palermo
+           Südtirol                v Empoli
+           Virtus Entella          v Pisa
+
+
+▪ Matchday 34
+  Sat Apr 17
+           Arezzo                  v Mantova
+           Catanzaro               v Benevento
+           Cremonese               v Südtirol
+           Empoli                  v Virtus Entella
+           Hellas Verona           v Padova
+           Juve Stabia             v Avellino
+           Modena                  v L.R. Vicenza
+           Palermo                 v Ascoli
+           Pisa                    v Cesena
+           Sampdoria               v Carrarese
+
+
+▪ Matchday 35
+  Sat Apr 24
+           Ascoli                  v Mantova
+           Avellino                v Modena
+           Benevento               v Carrarese
+           Catanzaro               v Sampdoria
+           Cesena                  v Juve Stabia
+           Cremonese               v Hellas Verona
+           L.R. Vicenza            v Empoli
+           Pisa                    v Arezzo
+           Südtirol                v Padova
+           Virtus Entella          v Palermo
+
+
+▪ Matchday 36
+  Sat May 1
+           Sampdoria               v Südtirol
+           Arezzo                  v Avellino
+           Carrarese               v Ascoli
+           Empoli                  v Cesena
+           Hellas Verona           v Benevento
+           Juve Stabia             v L.R. Vicenza
+           Mantova                 v Virtus Entella
+           Modena                  v Cremonese
+           Padova                  v Pisa
+           Palermo                 v Catanzaro
+
+
+▪ Matchday 37
+  Sat May 8
+           Ascoli                  v Hellas Verona
+           Avellino                v Carrarese
+           Benevento               v Palermo
+           Catanzaro               v Modena
+           Cesena                  v Arezzo
+           Cremonese               v Empoli
+           L.R. Vicenza            v Sampdoria
+           Pisa                    v Mantova
+           Südtirol                v Juve Stabia
+           Virtus Entella          v Padova
+
+
+▪ Matchday 38
+  Fri May 14
+           Arezzo                  v Virtus Entella
+           Carrarese               v Cremonese
+           Empoli                  v Catanzaro
+           Hellas Verona           v Südtirol
+           Juve Stabia             v Ascoli
+           Mantova                 v L.R. Vicenza
+           Modena                  v Benevento
+           Padova                  v Avellino
+           Palermo                 v Cesena
+           Sampdoria               v Pisa
