@@ -1,0 +1,4 @@
+docker/wordpress/
+.git/
+*.md
+.DS_Store

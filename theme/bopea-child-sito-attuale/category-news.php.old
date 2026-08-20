@@ -1,0 +1,71 @@
+<?php
+   get_header();
+?>
+<div class="jl_block_content">
+    <div class="jlc-container">
+        <div class="jlc-row main-content">
+            <div class="jlc-col-md-8 jl_smmain_con">
+            <?php
+            bopea_nav_guide();
+            bopea_archive_head();
+            $bopea_qry = bopea_get_qry();
+            $category = get_the_category()[0]->term_id;
+            echo '<div class="content_single_page jl_content page type-page status-publish hentry">';
+            echo '<div class="main-content-wrapper">';
+			echo '<div class="att-container-desktop" style="margin: 1rem 0">';
+            echo do_shortcode('[adrotate group="3"]');
+            echo '</div><div class="att-container-mobile" style="margin: 1rem 0">';
+            echo do_shortcode('[adrotate group="4"]');
+            echo '</div>';
+            echo bopea_m_list(array(
+                'blockid' => 'blockid_8c77777', 
+                'category' => $category, 
+                'posts_per_page' => 4,
+                'post_type_tax' => 'none',
+                'tabs_link' => 'none',
+                'author' => '',
+                'order' => 'date_post',
+                'pagination' => 'loadmore'
+            ));
+            ?>
+            </div>
+            </div>
+            </div>
+            <div class="jlc-col-md-4 jl_smmain_side">
+              <div class="jl_sidebar_w">
+                <?php bopea_archive_opt_sidebar();?>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bottom-section-category">
+
+<div class="grid-category-wrapper jlc-container">
+<div class="grid-category-heading">
+  <h1>I più letti di <?php echo get_cat_name($category); ?></h1>
+</div>
+<?php 
+echo bopea_mgrid(array(
+                'blockid' => 'blockid_8c77777', 
+                'category' => $category, 
+                'posts_per_page' => 4, 
+                'post_type_tax' => 'none',
+                'tabs_link' => 'none',
+                'author' => '',
+                'order' => 'popular_most',
+                'pagination' => false
+            ));
+?>
+</div>
+
+<div class="dif-container-desktop">
+  <img class="dif-desktop" src="/wp-content/uploads/2024/09/dif-web@2x-1001.webp" />
+</div>
+<div class="dif-container-mobile">
+  <img class="dif-mobile" src="/wp-content/uploads/2024/09/dif-mob@2x-1001.webp" />
+</div>
+</div>
+<?php 
+get_footer();
+?>

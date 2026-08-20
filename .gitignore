@@ -1,0 +1,14 @@
+# ── Dati WordPress e DB (recuperati a parte) ──────────────
+docker/wordpress/
+docker/backup.sql
+
+# ── Segreti / ambiente locale ─────────────────────────────
+docker/.env
+
+# ── Repo plugin separate ──────────────────────────────────
+lc-football/
+
+# ── Artefatti di test (Chrome headless) ────────────────────
+.chrome-test/profile
+.chrome-test/*.log
+*.log

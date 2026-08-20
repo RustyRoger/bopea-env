@@ -1,0 +1,255 @@
+html[dir="rtl"]{ direction: rtl; unicode-bidi: embed; -webkit-locale: RTL;}
+div{direction:rtl;}
+.post-read-time i{
+	margin-right: 0px;
+    margin-left: 4px;
+}
+.jl_fot_share_i.jl_share_l_bg.jls_tooltip{
+	margin-left: unset;
+	margin-right: var(--jl-sh-lp, auto);
+}
+.jlcus_sec_title .jl-heading-text svg, .jlcus_sec_title .jl-heading-text i{
+	margin-left: unset;
+	margin-right: var(--sect-arr-space, 13px);
+}
+.jlcus_sec_title .jl_sct_bt{
+	right: unset;
+	left: 0px;
+}
+.jlcus_sec_title .jl_sct_bt i,
+.jlcus_sec_title .jl-heading-text svg, .jlcus_sec_title .jl-heading-text i,
+.jlp_hs .jl_sh_t i,
+.rw_btnw .rw_btn svg,
+#jl-review-box ul li .review-criteria-score .jl_star_i svg,
+.jl_score_main_w .jl_score_main .jl_star_re .jl_star_i svg,
+.jellywp_pagination ul li .prev.page-numbers,
+.jellywp_pagination ul li .next.page-numbers,
+.woocommerce-pagination .prev.page-numbers,
+.woocommerce-pagination .next.page-numbers,
+.jli-share{
+	-webkit-transform: scaleX(-1) !important;
+	transform: scaleX(-1) !important;
+}
+.jlcus_sec_title .jl_sct_bt i{
+	margin-left: 1px;
+}
+.jl_fe_text .jl_fe_title, .jl_fe_text .jl_fe_des{
+	text-align: var(--jl-t-align, right);
+}
+.jl-gdpr .cookie-content{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.jl_fot_share_i .jls_tooltip_w{
+	right: auto;
+    left: 1px;
+}
+.jls_tooltip-top .jls_tooltiptext::after{
+	right: unset;
+    left: 5px;
+	margin-left: unset;
+    margin-right: -5px;
+}
+.search_header_menu > *{
+	margin-left: unset;
+	margin-right: 14px;
+}
+.jl_ajse{
+	right: auto;
+    left: 0;
+}
+.jl_ajse .jl_post_meta{
+	justify-content: revert !important;
+}
+.jlp_hs .jl_sh_t{
+	flex-direction: row-reverse;
+}
+.postnav_w, .postnav_w .jl_navpost .jl_nav_link, .jl_sfoot .jl_sli_in .jl_shli a span, .pagination-nextprev, .jl_artl .jl-eb-sl .jl_arpw, .jl_artr .jl-eb-sl .jl_arpw, .jl_arbl .jl-eb-sl .jl_arpw, .jl_arbr .jl-eb-sl .jl_arpw, .jl-eb-sl .jl_spw .swiper-pagination, .jl-pgal-slider .jl_spw .swiper-pagination{
+	direction: ltr;
+}
+.menu_moble_slide, .woocommerce-error, .woocommerce-info, .woocommerce-message, .woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea, .woocommerce-page #payment div.form-row, .woocommerce-page .checkout-col.col-right, .woocommerce-checkout .checkout-col.col-left .col2-set > *, #add_payment_method .wc-proceed-to-checkout, .woocommerce-cart .wc-proceed-to-checkout, .woocommerce-checkout .wc-proceed-to-checkout, .woocommerce-page.woocommerce-cart .cart-collaterals h2, .woocommerce-cart .woocommerce table.cart tr.cart_item td.product-name, .woocommerce #review_form label, .woocommerce #review_form .comment-reply-title, .woocommerce #reviews #comments h2, .related.related > h2, .upsells.products > h2, .woocommerce .cross-sells > h2, .woocommerce-product-details__short-description, .woocommerce div.product div.summary, .product .product-loop-content, .jl_shead_tpl4 .post_subtitle_text, .jl_sg_rgap > div, .jl_sg_rgap > div:last-child, .jl_relsec_in .rel_head, .jl_shead_tpl_txt, .jl_pc_sec_title{
+	text-align: right;
+}
+#jl_sb_nav a .arrow_down{
+	right: unset;
+	left: -10px;
+}
+#jl_sb_nav .logo_small_wrapper_table .mobile_close_icons.closed_menu{
+	transform: translateX(-10px);
+}
+.jlcus_sec_title.jl_sec_style12 .jl-heading-text .jl_ttw, .jlcus_sec_title.jl_sec_style13 .jl-heading-text .jl_ttw, .jlcus_sec_title.jl_sec_style14 .jl-heading-text .jl_ttw{
+	padding-left: unset;
+	padding-right: var(--sect-line-space, 10px);
+}
+blockquote, .jl_auth_head.jl_info_auth .jl_auth_desc, .jl-gdpr .cookie-content, .wpcf7-form-control.wpcf7-acceptance, .cp_txt, .jl-cf7 input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]), .jl-cf7 textarea, .jl-cf7 select{
+	text-align: right;
+}
+.jl-cf7 input[type='submit'], .jl-cf7 button{
+	right: unset;
+	left: var(--jl-c7-btnpos, 0px);
+}
+.navigation_wrapper .jl_main_menu > .menu-item{
+	margin-right: unset;
+	margin-left: var(--jl-spacing-menu);
+}
+.navigation_wrapper .menu-item-has-children > a:after, .navigation_wrapper .menupost > a:after{
+	margin-left: unset;
+	margin-right: 5px;
+}
+.navigation_wrapper .jl_main_menu > .menu-item .menu-item a{
+	text-align: right;
+}
+.navigation_wrapper .jl_main_menu ul .menu-item-has-children > a:after{
+	right: 0px;
+    left: 20px;
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+.navigation_wrapper .jl_main_menu .sub-menu .sub-menu{
+	left: unset;
+	right: 98%;
+}
+.jl_menu_lb{
+	margin: auto 4px auto auto;
+}
+.jl-marquee-wrap, .jl-marquee-wrap *{
+	direction: ltr;
+	text-align: right;
+}
+.jl_content ul{
+	padding-left: unset;
+	padding-right: 15px;
+}
+.jl_review_cons span:before, .jl_review_pros span:before{
+	margin-right: unset;
+	margin-left: 7px;
+}
+.rw_btnw .rw_btn svg{
+	margin-left: unset;
+	margin-right: 5px;
+}
+.jl_score_main_w .review-ht{
+	left: unset;
+	right: 30px;
+}
+.jl_score_main_w .jl_score_main{
+	right: unset;
+	left: 30px;
+}
+.jl_sh_cter.jl_sh1 li a .jl_sh_w{
+	margin-left: unset;
+	margin-right: auto;
+}
+.jl_smmain_side{
+	padding-left: 20px;
+}
+.jl_shead_tpl4{
+	--jl-h-align: right !important;
+}
+.jl_shead_tpl4 .jl_breadcrumbs{
+	left: unset;
+	right: 30px;
+}
+.jl_ticker_wp .jl_arpw{
+	right: unset;
+	left: 0px;
+	direction: ltr;
+}
+.jl-newsticker-li .jl_post_meta{
+	margin: 0px 15px 0px 0px;
+}
+.jl_sh1.jl2cols li a .jl_sh_w{
+	margin-left: auto;
+}
+.jl_mega_sml .jl_imgw{
+	margin-right: unset;
+	margin-left: 15px;
+}
+.jlcus_sec_title.jl_sec_style15:before, .jlcus_sec_title.jl_sec_style15:after{
+	left: unset;
+	right: 0px;
+}
+.jl-sp-image-caption{
+	left: 0;
+	right: unset;
+}
+.wp-block-quote, blockquote{
+	padding: 30px 70px 30px 30px !important;
+}
+blockquote:before{
+	left: unset;
+	right: 30px;
+    -webkit-transform: unset;
+    transform: unset;
+}
+.woocommerce span.onsale, .woocommerce span.onsale, .bopea-badge{
+	left: unset;
+	right: 15px;
+	direction: ltr;
+}
+.woocommerce .woocommerce-ordering{
+    margin: 0 auto 0 0px;		
+}
+.woocommerce .woocommerce-ordering select, .jl_filter_btn{
+	padding-right: unset;
+	padding-left: 26px;
+	background: url("data:image/svg+xml;utf8,<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M6 9L12 15L18 9' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/></svg>") calc(1px - 5px) 55% no-repeat;
+}
+.woocommerce-mini-cart__total{
+	display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.woocommerce ul.cart_list li, .woocommerce ul.product_list_widget li{
+	padding-left: unset;
+	padding-right: 85px;    
+    text-align: right;
+}
+.woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img{
+    left: unset;
+	right: 0;
+}
+.woocommerce-mini-cart-item a.remove.remove_from_cart_button{
+	right: unset;
+	left: 0 !important;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text{
+	margin: 0 65px 0 0;
+	text-align: right;
+}
+.comment-form-rating label{
+	margin-right: 0px;
+    margin-left: 20px;
+}
+.woocommerce p.stars a{
+	direction: ltr;
+}
+.woocommerce-cart table.shop_table th.product-name{
+	right: 0px;
+	left: unset;
+}
+.woocommerce-cart .woocommerce table.cart tr.cart_item td.product-thumbnail{
+	padding-right: unset;
+	padding-left: 28px;
+}
+.woocommerce-cart.woocommerce-page .woocommerce-cart-form .coupon button{
+	margin-left: unset;
+	margin-right: 10px;
+}
+.woocommerce-cart .woocommerce-cart-form .actions button.button{
+	float: left;
+}
+.woocommerce-cart.woocommerce-page .woocommerce-cart-form .coupon input.input-text{
+	padding: 0px 20px !important;
+}
+.woocommerce form .form-row-last, .woocommerce-page form .form-row-last{
+	margin-left: unset !important;
+	margin-right: 10px !important;
+}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order, .woocommerce form .form-row-last, .woocommerce-page form .form-row-last{
+	float: right;
+}
+.jl_sfoot .jl_sh_t{
+	justify-content: revert;
+    direction: ltr;
+}

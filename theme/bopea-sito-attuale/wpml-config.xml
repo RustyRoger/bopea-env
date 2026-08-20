@@ -1,0 +1,43 @@
+<wpml-config>
+    <admin-texts>
+        <key name="wesper">
+            <key name="wesper_logo_favicon" />        			
+            <key name="wesper_logo" />
+            <key name="wesper_logow" />
+            <key name="logo_width" />
+            <key name="m_logo_width" />		
+            <key name="s_logo_width" />       
+            <key name="foot_logo_width" />       
+            <key name="wesper_general_setting" />        			
+            <key name="max_content_width" /> 
+            <key name="header_layout_design" /> 
+            <key name="header_layout" /> 
+            <key name="header_sticky" />
+            <key name="footer_layout" />
+            <key name="wesper_menu_sec_options" />
+            <key name="section_menu_height" />
+            <key name="sticky_logo" />
+            <key name="wesper_logo_sec_options" />
+            <key name="section_logo_height" />	
+            <key name="jl_subcribe_txt" />          			
+            <key name="jl_subcribe_link" />
+        </key>
+    </admin-texts>
+	<custom-fields>
+       <custom-field action="translate">jl_subcribe_txt</custom-field>
+       <custom-field action="translate">topl_text</custom-field>
+       <custom-field action="translate">topr_text</custom-field>
+       <custom-field action="translate">btn_txt</custom-field>
+       <custom-field action="translate">jl_copyright</custom-field>
+       <custom-field action="translate">jl_cookie_dec</custom-field>
+       <custom-field action="translate">jl_cookie_btn</custom-field>
+       <custom-field action="translate">amp_copyright</custom-field>
+       <custom-field action="translate">single_page_subtitle</custom-field>
+       <custom-field action="translate">single_post_subtitle</custom-field>
+       <custom-field action="translate">review_box_title</custom-field>
+       <custom-field action="translate">review_summary</custom-field>
+       <custom-field action="translate">review_pos</custom-field>
+       <custom-field action="translate">review_neg</custom-field>
+       <custom-field action="translate">review_btn_label</custom-field>
+   </custom-fields>
+</wpml-config>

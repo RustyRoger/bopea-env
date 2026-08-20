@@ -1,0 +1,52 @@
+services:
+
+  wordpress:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8888:80"
+    dns:
+      - 192.168.1.254
+    volumes:
+      - ./wordpress:/var/www/html
+      - ../lc-football:/var/www/html/wp-content/plugins/lc-football:ro
+    environment:
+      HOST_UID: ${HOST_UID}
+      HOST_GID: ${HOST_GID}
+    env_file:
+      - .env
+    depends_on:
+      mysql:
+        condition: service_healthy
+    restart: unless-stopped
+
+  mysql:
+    image: mysql:8.0
+    volumes:
+      - db_data:/var/lib/mysql
+    env_file:
+      - .env
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - "8889:80"
+    environment:
+      PMA_HOST: mysql
+      PMA_USER: wordpress
+      PMA_PASSWORD: wordpress
+      UPLOAD_LIMIT: 128M
+    depends_on:
+      mysql:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  db_data:
